@@ -1,4 +1,4 @@
-import { Badge, Card, Center, Image, Overlay, Text, Title } from "@mantine/core"
+import { Badge, Card, Center, Image, Overlay, Title } from "@mantine/core"
 import classes from "./MovieCard.module.css"
 
 export default function MovieCard({

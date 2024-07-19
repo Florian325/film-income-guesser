@@ -1,13 +1,4 @@
-import {
-    Button,
-    Card,
-    Center,
-    Container,
-    Divider,
-    Stack,
-    Text,
-    Title,
-} from "@mantine/core"
+import { Button, Center, Container, Stack, Title } from "@mantine/core"
 import { getRandomMovies } from "@/utils/random-movies"
 import MovieCards from "./MovieCards"
 import { revalidatePath } from "next/cache"
